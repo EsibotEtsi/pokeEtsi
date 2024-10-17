@@ -1,0 +1,2 @@
+# pokeEtsi
+Pokemon en python
